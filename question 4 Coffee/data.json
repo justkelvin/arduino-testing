@@ -1,0 +1,178 @@
+[
+    {
+      "date": "2023-06-01",
+      "coffee_consumed": 3,
+      "productivity_rating": 7,
+      "steps_climbed": 2504,
+      "smiles": 23,
+      "frowns": 2,
+      "music_streaming": [
+        {
+          "genre": "Pop",
+          "artist": "Taylor Swift",
+          "time_of_day": "Morning"
+        },
+        {
+          "genre": "Rock",
+          "artist": "Led Zeppelin",
+          "time_of_day": "Afternoon"
+        },
+        {
+          "genre": "Electronic",
+          "artist": "Daft Punk",
+          "time_of_day": "Evening"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-02",
+      "coffee_consumed": 2,
+      "productivity_rating": 6,
+      "steps_climbed": 3534,
+      "smiles": 17,
+      "frowns": 3,
+      "music_streaming": [
+        {
+          "genre": "Hip Hop",
+          "artist": "Kendrick Lamar",
+          "time_of_day": "Morning"
+        },
+        {
+          "genre": "Indie",
+          "artist": "Arctic Monkeys",
+          "time_of_day": "Afternoon"
+        },
+        {
+          "genre": "Alternative",
+          "artist": "Radiohead",
+          "time_of_day": "Evening"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-03",
+      "coffee_consumed": 1,
+      "productivity_rating": 8,
+      "steps_climbed": 4032,
+      "smiles": 18,
+      "frowns": 1,
+      "music_streaming": [
+        {
+          "genre": "R&B",
+          "artist": "Frank Ocean",
+          "time_of_day": "Morning"
+        },
+        {
+          "genre": "Pop",
+          "artist": "Ariana Grande",
+          "time_of_day": "Afternoon"
+        },
+        {
+          "genre": "Classical",
+          "artist": "Ludwig van Beethoven",
+          "time_of_day": "Evening"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-04",
+      "coffee_consumed": 2,
+      "productivity_rating": 7,
+      "steps_climbed": 3010,
+      "smiles": 16,
+      "frowns": 2,
+      "music_streaming": [
+        {
+          "genre": "Pop",
+          "artist": "Billie Eilish",
+          "time_of_day": "Morning"
+        },
+        {
+          "genre": "Hip Hop",
+          "artist": "Drake",
+          "time_of_day": "Afternoon"
+        },
+        {
+          "genre": "Rock",
+          "artist": "Pink Floyd",
+          "time_of_day": "Evening"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-05",
+      "coffee_consumed": 3,
+      "productivity_rating": 6,
+      "steps_climbed": 2005,
+      "smiles": 12,
+      "frowns": 4,
+      "music_streaming": [
+        {
+          "genre": "Rock",
+          "artist": "Queen",
+          "time_of_day": "Morning"
+        },
+        {
+          "genre": "Electronic",
+          "artist": "The Chemical Brothers",
+          "time_of_day": "Afternoon"
+        },
+        {
+          "genre": "Pop",
+          "artist": "Michael Jackson",
+          "time_of_day": "Evening"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-06",
+      "coffee_consumed": 2,
+      "productivity_rating": 7,
+      "steps_climbed": 3509,
+      "smiles": 17,
+      "frowns": 1,
+      "music_streaming": [
+        {
+          "genre": "Indie",
+          "artist": "Tame Impala",
+          "time_of_day": "Morning"
+        },
+        {
+          "genre": "Rock",
+          "artist": "The Rolling Stones",
+          "time_of_day": "Afternoon"
+        },
+        {
+          "genre": "Electronic",
+          "artist": "Disclosure",
+          "time_of_day": "Evening"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-07",
+      "coffee_consumed": 1,
+      "productivity_rating": 8,
+      "steps_climbed": 4010,
+      "smiles": 19,
+      "frowns": 0,
+      "music_streaming": [
+        {
+          "genre": "Pop",
+          "artist": "Ed Sheeran",
+          "time_of_day": "Morning"
+        },
+        {
+          "genre": "Hip Hop",
+          "artist": "Eminem",
+          "time_of_day": "Afternoon"
+        },
+        {
+          "genre": "Rock",
+          "artist": "AC/DC",
+          "time_of_day": "Evening"
+        }
+      ]
+    }
+  ]
+  

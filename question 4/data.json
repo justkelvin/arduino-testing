@@ -1,0 +1,128 @@
+[
+    {
+      "Date": "2023-06-15",
+      "Time": "12:00 PM",
+      "Temperature": 26,
+      "Humidity": 70,
+      "Wind Speed": 10
+    },
+    {
+      "Date": "2023-06-15",
+      "Time": "3:00 PM",
+      "Temperature": 28,
+      "Humidity": 65,
+      "Wind Speed": 12
+    },
+    {
+      "Date": "2023-06-15",
+      "Time": "6:00 PM",
+      "Temperature": 25,
+      "Humidity": 75,
+      "Wind Speed": 8
+    },
+    {
+      "Date": "2023-06-16",
+      "Time": "12:00 PM",
+      "Temperature": 24,
+      "Humidity": 68,
+      "Wind Speed": 10
+    },
+    {
+      "Date": "2023-06-16",
+      "Time": "3:00 PM",
+      "Temperature": 26,
+      "Humidity": 62,
+      "Wind Speed": 14
+    },
+    {
+      "Date": "2023-06-16",
+      "Time": "6:00 PM",
+      "Temperature": 22,
+      "Humidity": 80,
+      "Wind Speed": 6
+    },
+    {
+      "Date": "2023-06-17",
+      "Time": "12:00 PM",
+      "Temperature": 27,
+      "Humidity": 72,
+      "Wind Speed": 10
+    },
+    {
+      "Date": "2023-06-17",
+      "Time": "3:00 PM",
+      "Temperature": 30,
+      "Humidity": 60,
+      "Wind Speed": 15
+    },
+    {
+      "Date": "2023-06-17",
+      "Time": "6:00 PM",
+      "Temperature": 26,
+      "Humidity": 78,
+      "Wind Speed": 8
+    },
+    {
+      "Date": "2023-06-18",
+      "Time": "12:00 PM",
+      "Temperature": 25,
+      "Humidity": 70,
+      "Wind Speed": 12
+    },
+    {
+      "Date": "2023-06-18",
+      "Time": "3:00 PM",
+      "Temperature": 28,
+      "Humidity": 68,
+      "Wind Speed": 10
+    },
+    {
+      "Date": "2023-06-18",
+      "Time": "6:00 PM",
+      "Temperature": 23,
+      "Humidity": 76,
+      "Wind Speed": 6
+    },
+    {
+      "Date": "2023-06-19",
+      "Time": "12:00 PM",
+      "Temperature": 26,
+      "Humidity": 72,
+      "Wind Speed": 10
+    },
+    {
+      "Date": "2023-06-19",
+      "Time": "3:00 PM",
+      "Temperature": 29,
+      "Humidity": 65,
+      "Wind Speed": 13
+    },
+    {
+      "Date": "2023-06-19",
+      "Time": "6:00 PM",
+      "Temperature": 25,
+      "Humidity": 75,
+      "Wind Speed": 8
+    },
+    {
+      "Date": "2023-06-20",
+      "Time": "12:00 PM",
+      "Temperature": 24,
+      "Humidity": 68,
+      "Wind Speed": 12
+    },
+    {
+      "Date": "2023-06-20",
+      "Time": "3:00 PM",
+      "Temperature": 27,
+      "Humidity": 62,
+      "Wind Speed": 15
+    },
+    {
+      "Date": "2023-06-20",
+      "Time": "6:00 PM",
+      "Temperature": 22,
+      "Humidity": 80,
+      "Wind Speed": 6
+    }
+   ]
